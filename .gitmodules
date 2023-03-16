@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "controlTest"]
+	path = controlTest
+	url = https://github.com/erickawaguchi/controltest
+	shallow = true
+	registered = true
+[submodule "fastcmprsk"]
+	path = fastcmprsk
+	url = https://github.com/erickawaguchi/fastcmprsk
+	shallow = true
+	registered = true

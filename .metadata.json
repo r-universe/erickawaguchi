@@ -1,0 +1,9 @@
+[
+  {
+    "package": "controlTest",
+    "oncran": true
+  },
+  {
+    "package": "fastcmprsk"
+  }
+]
