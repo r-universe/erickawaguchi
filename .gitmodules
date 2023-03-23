@@ -13,3 +13,8 @@
 	url = https://github.com/erickawaguchi/fastcmprsk
 	shallow = true
 	registered = true
+[submodule "powerCompRisk"]
+	path = powerCompRisk
+	url = https://github.com/cran/powerCompRisk
+	shallow = true
+	registered = true
