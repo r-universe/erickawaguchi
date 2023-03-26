@@ -8,11 +8,6 @@
 	url = https://github.com/erickawaguchi/controltest
 	shallow = true
 	registered = true
-[submodule "fastcmprsk"]
-	path = fastcmprsk
-	url = https://github.com/erickawaguchi/fastcmprsk
-	shallow = true
-	registered = true
 [submodule "powerCompRisk"]
 	path = powerCompRisk
 	url = https://github.com/cran/powerCompRisk
