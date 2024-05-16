@@ -5,6 +5,9 @@
 [submodule "controlTest"]
 	path = controlTest
 	url = https://github.com/erickawaguchi/controltest
+[submodule "fastcmprsk"]
+	path = fastcmprsk
+	url = https://github.com/cran/fastcmprsk
 [submodule "powerCompRisk"]
 	path = powerCompRisk
 	url = https://github.com/cran/powerCompRisk
